@@ -177,7 +177,7 @@ button {
   align-items: center;
 }
 
-.navbarListItemName,
+/* .navbarListItemName,
 .navbarListItemNameActive {
   margin-top: 0.25rem;
   font-size: 14px;
@@ -186,7 +186,7 @@ button {
 }
 .navbarListItemNameActive {
   color: #2c2c2c;
-}
+} */
 
 .nameInput {
   margin-bottom: 2rem;
